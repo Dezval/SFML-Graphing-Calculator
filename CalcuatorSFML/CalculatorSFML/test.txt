@@ -1,0 +1,44 @@
+: sin(1)
+Display Infix: sin(1)
+Display PostFix: 1sin
+0.841471
+
+: cos(1)
+Display Infix: cos(1)
+Display PostFix: 1cos
+0.540302
+
+: tan(1)
+Display Infix: tan(1)
+Display PostFix: 1tan
+1.55741
+
+: cot(1)
+Display Infix: cot(1)
+Display PostFix: 1cot
+0.642093
+
+: csc(1)
+Display Infix: csc(1)
+Display PostFix: 1csc
+1.1884
+
+: sec(1)
+Display Infix: sec(1)
+Display PostFix: 1sec
+1.85082
+
+: Max(10,11)
+Display Infix: Max(1011)
+Display PostFix: 1011Max
+11
+
+: 2^2*4+4-10/5
+Display Infix: 2^2*4+4-10/5
+Display PostFix: 22^4*4+105/-
+18
+
+: (1+3)*(5-1)
+Display Infix: (1+3)*(5-1)
+Display PostFix: 13+51-*
+16
